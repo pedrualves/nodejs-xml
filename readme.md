@@ -1,4 +1,4 @@
-# Simple and rustic example to consuming old soap webservices with nodejs.
+# Simple and rustic example to consume old soap webservices with nodejs
 
 ## Endpoint:
 
