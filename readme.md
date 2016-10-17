@@ -14,7 +14,7 @@ node native.js
 
 ## The request way:
 
-[npm module: https://github.com/request/request]
+npm module: https://github.com/request/request
 
 ```javascript
    npm install request
@@ -24,7 +24,7 @@ node native.js
 
 ## The unirequest way:
 
-[https://github.com/Mashape/unirest-nodejs]
+npm module: https://github.com/Mashape/unirest-nodejs
 
 ```javascript
    npm install unirequest
